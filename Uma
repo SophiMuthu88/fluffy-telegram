@@ -1,12 +1,14 @@
 
+
 <!DOCTYPE html>
 <html>
 <head>
-    <title>My First Web Page</title>
+  <title>Simple HTML Program</title>
 </head>
 <body>
-    <h1>Welcome to My Web Page</h1>
-    <p>This is my first web page.</p>
-    <p>I'm excited to learn more about HTML and web development!</p>
+  <h1>Hello, World!</h1>
+  <p>Welcome to my web page.</p>
+  <p>This is a simple HTML program.</p>
 </body>
 </html>
+
